@@ -1,0 +1,325 @@
+Statistic Label,CensusYear,Sex,County,UNIT,VALUE
+Population 2016,2022,Both sexes,Ireland,Number,4761865
+Population 2016,2022,Both sexes,Co. Carlow,Number,56932
+Population 2016,2022,Both sexes,Co. Cavan,Number,76176
+Population 2016,2022,Both sexes,Co. Clare,Number,118817
+Population 2016,2022,Both sexes,Co. Cork,Number,542868
+Population 2016,2022,Both sexes,Co. Donegal,Number,159192
+Population 2016,2022,Both sexes,Co. Dublin,Number,1347359
+Population 2016,2022,Both sexes,Co. Galway,Number,258058
+Population 2016,2022,Both sexes,Co. Kerry,Number,147707
+Population 2016,2022,Both sexes,Co. Kildare,Number,222504
+Population 2016,2022,Both sexes,Co. Kilkenny,Number,99232
+Population 2016,2022,Both sexes,Co. Laois,Number,84697
+Population 2016,2022,Both sexes,Co. Leitrim,Number,32044
+Population 2016,2022,Both sexes,Co. Limerick,Number,194899
+Population 2016,2022,Both sexes,Co. Longford,Number,40873
+Population 2016,2022,Both sexes,Co. Louth,Number,128884
+Population 2016,2022,Both sexes,Co. Mayo,Number,130507
+Population 2016,2022,Both sexes,Co. Meath,Number,195044
+Population 2016,2022,Both sexes,Co. Monaghan,Number,61386
+Population 2016,2022,Both sexes,Co. Offaly,Number,77961
+Population 2016,2022,Both sexes,Co. Roscommon,Number,64544
+Population 2016,2022,Both sexes,Co. Sligo,Number,65535
+Population 2016,2022,Both sexes,Co. Tipperary,Number,159553
+Population 2016,2022,Both sexes,Co. Waterford,Number,116176
+Population 2016,2022,Both sexes,Co. Westmeath,Number,88770
+Population 2016,2022,Both sexes,Co. Wexford,Number,149722
+Population 2016,2022,Both sexes,Co. Wicklow,Number,142425
+Population 2016,2022,Male,Ireland,Number,2354428
+Population 2016,2022,Male,Co. Carlow,Number,28465
+Population 2016,2022,Male,Co. Cavan,Number,38330
+Population 2016,2022,Male,Co. Clare,Number,58785
+Population 2016,2022,Male,Co. Cork,Number,268675
+Population 2016,2022,Male,Co. Donegal,Number,79022
+Population 2016,2022,Male,Co. Dublin,Number,658371
+Population 2016,2022,Male,Co. Galway,Number,127663
+Population 2016,2022,Male,Co. Kerry,Number,73055
+Population 2016,2022,Male,Co. Kildare,Number,110546
+Population 2016,2022,Male,Co. Kilkenny,Number,49533
+Population 2016,2022,Male,Co. Laois,Number,42811
+Population 2016,2022,Male,Co. Leitrim,Number,16064
+Population 2016,2022,Male,Co. Limerick,Number,97340
+Population 2016,2022,Male,Co. Longford,Number,20587
+Population 2016,2022,Male,Co. Louth,Number,63633
+Population 2016,2022,Male,Co. Mayo,Number,65047
+Population 2016,2022,Male,Co. Meath,Number,96776
+Population 2016,2022,Male,Co. Monaghan,Number,30866
+Population 2016,2022,Male,Co. Offaly,Number,38838
+Population 2016,2022,Male,Co. Roscommon,Number,32377
+Population 2016,2022,Male,Co. Sligo,Number,32365
+Population 2016,2022,Male,Co. Tipperary,Number,79668
+Population 2016,2022,Male,Co. Waterford,Number,57651
+Population 2016,2022,Male,Co. Westmeath,Number,44082
+Population 2016,2022,Male,Co. Wexford,Number,73722
+Population 2016,2022,Male,Co. Wicklow,Number,70156
+Population 2016,2022,Female,Ireland,Number,2407437
+Population 2016,2022,Female,Co. Carlow,Number,28467
+Population 2016,2022,Female,Co. Cavan,Number,37846
+Population 2016,2022,Female,Co. Clare,Number,60032
+Population 2016,2022,Female,Co. Cork,Number,274193
+Population 2016,2022,Female,Co. Donegal,Number,80170
+Population 2016,2022,Female,Co. Dublin,Number,688988
+Population 2016,2022,Female,Co. Galway,Number,130395
+Population 2016,2022,Female,Co. Kerry,Number,74652
+Population 2016,2022,Female,Co. Kildare,Number,111958
+Population 2016,2022,Female,Co. Kilkenny,Number,49699
+Population 2016,2022,Female,Co. Laois,Number,41886
+Population 2016,2022,Female,Co. Leitrim,Number,15980
+Population 2016,2022,Female,Co. Limerick,Number,97559
+Population 2016,2022,Female,Co. Longford,Number,20286
+Population 2016,2022,Female,Co. Louth,Number,65251
+Population 2016,2022,Female,Co. Mayo,Number,65460
+Population 2016,2022,Female,Co. Meath,Number,98268
+Population 2016,2022,Female,Co. Monaghan,Number,30520
+Population 2016,2022,Female,Co. Offaly,Number,39123
+Population 2016,2022,Female,Co. Roscommon,Number,32167
+Population 2016,2022,Female,Co. Sligo,Number,33170
+Population 2016,2022,Female,Co. Tipperary,Number,79885
+Population 2016,2022,Female,Co. Waterford,Number,58525
+Population 2016,2022,Female,Co. Westmeath,Number,44688
+Population 2016,2022,Female,Co. Wexford,Number,76000
+Population 2016,2022,Female,Co. Wicklow,Number,72269
+Population 2022,2022,Both sexes,Ireland,Number,5123536
+Population 2022,2022,Both sexes,Co. Carlow,Number,61931
+Population 2022,2022,Both sexes,Co. Cavan,Number,81201
+Population 2022,2022,Both sexes,Co. Clare,Number,127419
+Population 2022,2022,Both sexes,Co. Cork,Number,581231
+Population 2022,2022,Both sexes,Co. Donegal,Number,166321
+Population 2022,2022,Both sexes,Co. Dublin,Number,1450701
+Population 2022,2022,Both sexes,Co. Galway,Number,276451
+Population 2022,2022,Both sexes,Co. Kerry,Number,155258
+Population 2022,2022,Both sexes,Co. Kildare,Number,246977
+Population 2022,2022,Both sexes,Co. Kilkenny,Number,103685
+Population 2022,2022,Both sexes,Co. Laois,Number,91657
+Population 2022,2022,Both sexes,Co. Leitrim,Number,35087
+Population 2022,2022,Both sexes,Co. Limerick,Number,205444
+Population 2022,2022,Both sexes,Co. Longford,Number,46634
+Population 2022,2022,Both sexes,Co. Louth,Number,139100
+Population 2022,2022,Both sexes,Co. Mayo,Number,137231
+Population 2022,2022,Both sexes,Co. Meath,Number,220296
+Population 2022,2022,Both sexes,Co. Monaghan,Number,64832
+Population 2022,2022,Both sexes,Co. Offaly,Number,82668
+Population 2022,2022,Both sexes,Co. Roscommon,Number,69995
+Population 2022,2022,Both sexes,Co. Sligo,Number,69819
+Population 2022,2022,Both sexes,Co. Tipperary,Number,167661
+Population 2022,2022,Both sexes,Co. Waterford,Number,127085
+Population 2022,2022,Both sexes,Co. Westmeath,Number,95840
+Population 2022,2022,Both sexes,Co. Wexford,Number,163527
+Population 2022,2022,Both sexes,Co. Wicklow,Number,155485
+Population 2022,2022,Male,Ireland,Number,2529936
+Population 2022,2022,Male,Co. Carlow,Number,30859
+Population 2022,2022,Male,Co. Cavan,Number,40809
+Population 2022,2022,Male,Co. Clare,Number,62686
+Population 2022,2022,Male,Co. Cork,Number,287002
+Population 2022,2022,Male,Co. Donegal,Number,82375
+Population 2022,2022,Male,Co. Dublin,Number,708998
+Population 2022,2022,Male,Co. Galway,Number,136318
+Population 2022,2022,Male,Co. Kerry,Number,76692
+Population 2022,2022,Male,Co. Kildare,Number,122650
+Population 2022,2022,Male,Co. Kilkenny,Number,51608
+Population 2022,2022,Male,Co. Laois,Number,46218
+Population 2022,2022,Male,Co. Leitrim,Number,17518
+Population 2022,2022,Male,Co. Limerick,Number,102221
+Population 2022,2022,Male,Co. Longford,Number,23355
+Population 2022,2022,Male,Co. Louth,Number,68594
+Population 2022,2022,Male,Co. Mayo,Number,67970
+Population 2022,2022,Male,Co. Meath,Number,109833
+Population 2022,2022,Male,Co. Monaghan,Number,32661
+Population 2022,2022,Male,Co. Offaly,Number,41399
+Population 2022,2022,Male,Co. Roscommon,Number,35062
+Population 2022,2022,Male,Co. Sligo,Number,34359
+Population 2022,2022,Male,Co. Tipperary,Number,83465
+Population 2022,2022,Male,Co. Waterford,Number,62821
+Population 2022,2022,Male,Co. Westmeath,Number,47522
+Population 2022,2022,Male,Co. Wexford,Number,80599
+Population 2022,2022,Male,Co. Wicklow,Number,76342
+Population 2022,2022,Female,Ireland,Number,2593600
+Population 2022,2022,Female,Co. Carlow,Number,31072
+Population 2022,2022,Female,Co. Cavan,Number,40392
+Population 2022,2022,Female,Co. Clare,Number,64733
+Population 2022,2022,Female,Co. Cork,Number,294229
+Population 2022,2022,Female,Co. Donegal,Number,83946
+Population 2022,2022,Female,Co. Dublin,Number,741703
+Population 2022,2022,Female,Co. Galway,Number,140133
+Population 2022,2022,Female,Co. Kerry,Number,78566
+Population 2022,2022,Female,Co. Kildare,Number,124327
+Population 2022,2022,Female,Co. Kilkenny,Number,52077
+Population 2022,2022,Female,Co. Laois,Number,45439
+Population 2022,2022,Female,Co. Leitrim,Number,17569
+Population 2022,2022,Female,Co. Limerick,Number,103223
+Population 2022,2022,Female,Co. Longford,Number,23279
+Population 2022,2022,Female,Co. Louth,Number,70506
+Population 2022,2022,Female,Co. Mayo,Number,69261
+Population 2022,2022,Female,Co. Meath,Number,110463
+Population 2022,2022,Female,Co. Monaghan,Number,32171
+Population 2022,2022,Female,Co. Offaly,Number,41269
+Population 2022,2022,Female,Co. Roscommon,Number,34933
+Population 2022,2022,Female,Co. Sligo,Number,35460
+Population 2022,2022,Female,Co. Tipperary,Number,84196
+Population 2022,2022,Female,Co. Waterford,Number,64264
+Population 2022,2022,Female,Co. Westmeath,Number,48318
+Population 2022,2022,Female,Co. Wexford,Number,82928
+Population 2022,2022,Female,Co. Wicklow,Number,79143
+Actual change since previous census,2022,Both sexes,Ireland,Number,361671
+Actual change since previous census,2022,Both sexes,Co. Carlow,Number,4999
+Actual change since previous census,2022,Both sexes,Co. Cavan,Number,5025
+Actual change since previous census,2022,Both sexes,Co. Clare,Number,8602
+Actual change since previous census,2022,Both sexes,Co. Cork,Number,38363
+Actual change since previous census,2022,Both sexes,Co. Donegal,Number,7129
+Actual change since previous census,2022,Both sexes,Co. Dublin,Number,103342
+Actual change since previous census,2022,Both sexes,Co. Galway,Number,18393
+Actual change since previous census,2022,Both sexes,Co. Kerry,Number,7551
+Actual change since previous census,2022,Both sexes,Co. Kildare,Number,24473
+Actual change since previous census,2022,Both sexes,Co. Kilkenny,Number,4453
+Actual change since previous census,2022,Both sexes,Co. Laois,Number,6960
+Actual change since previous census,2022,Both sexes,Co. Leitrim,Number,3043
+Actual change since previous census,2022,Both sexes,Co. Limerick,Number,10545
+Actual change since previous census,2022,Both sexes,Co. Longford,Number,5761
+Actual change since previous census,2022,Both sexes,Co. Louth,Number,10216
+Actual change since previous census,2022,Both sexes,Co. Mayo,Number,6724
+Actual change since previous census,2022,Both sexes,Co. Meath,Number,25252
+Actual change since previous census,2022,Both sexes,Co. Monaghan,Number,3446
+Actual change since previous census,2022,Both sexes,Co. Offaly,Number,4707
+Actual change since previous census,2022,Both sexes,Co. Roscommon,Number,5451
+Actual change since previous census,2022,Both sexes,Co. Sligo,Number,4284
+Actual change since previous census,2022,Both sexes,Co. Tipperary,Number,8108
+Actual change since previous census,2022,Both sexes,Co. Waterford,Number,10909
+Actual change since previous census,2022,Both sexes,Co. Westmeath,Number,7070
+Actual change since previous census,2022,Both sexes,Co. Wexford,Number,13805
+Actual change since previous census,2022,Both sexes,Co. Wicklow,Number,13060
+Actual change since previous census,2022,Male,Ireland,Number,175508
+Actual change since previous census,2022,Male,Co. Carlow,Number,2394
+Actual change since previous census,2022,Male,Co. Cavan,Number,2479
+Actual change since previous census,2022,Male,Co. Clare,Number,3901
+Actual change since previous census,2022,Male,Co. Cork,Number,18327
+Actual change since previous census,2022,Male,Co. Donegal,Number,3353
+Actual change since previous census,2022,Male,Co. Dublin,Number,50627
+Actual change since previous census,2022,Male,Co. Galway,Number,8655
+Actual change since previous census,2022,Male,Co. Kerry,Number,3637
+Actual change since previous census,2022,Male,Co. Kildare,Number,12104
+Actual change since previous census,2022,Male,Co. Kilkenny,Number,2075
+Actual change since previous census,2022,Male,Co. Laois,Number,3407
+Actual change since previous census,2022,Male,Co. Leitrim,Number,1454
+Actual change since previous census,2022,Male,Co. Limerick,Number,4881
+Actual change since previous census,2022,Male,Co. Longford,Number,2768
+Actual change since previous census,2022,Male,Co. Louth,Number,4961
+Actual change since previous census,2022,Male,Co. Mayo,Number,2923
+Actual change since previous census,2022,Male,Co. Meath,Number,13057
+Actual change since previous census,2022,Male,Co. Monaghan,Number,1795
+Actual change since previous census,2022,Male,Co. Offaly,Number,2561
+Actual change since previous census,2022,Male,Co. Roscommon,Number,2685
+Actual change since previous census,2022,Male,Co. Sligo,Number,1994
+Actual change since previous census,2022,Male,Co. Tipperary,Number,3797
+Actual change since previous census,2022,Male,Co. Waterford,Number,5170
+Actual change since previous census,2022,Male,Co. Westmeath,Number,3440
+Actual change since previous census,2022,Male,Co. Wexford,Number,6877
+Actual change since previous census,2022,Male,Co. Wicklow,Number,6186
+Actual change since previous census,2022,Female,Ireland,Number,186163
+Actual change since previous census,2022,Female,Co. Carlow,Number,2605
+Actual change since previous census,2022,Female,Co. Cavan,Number,2546
+Actual change since previous census,2022,Female,Co. Clare,Number,4701
+Actual change since previous census,2022,Female,Co. Cork,Number,20036
+Actual change since previous census,2022,Female,Co. Donegal,Number,3776
+Actual change since previous census,2022,Female,Co. Dublin,Number,52715
+Actual change since previous census,2022,Female,Co. Galway,Number,9738
+Actual change since previous census,2022,Female,Co. Kerry,Number,3914
+Actual change since previous census,2022,Female,Co. Kildare,Number,12369
+Actual change since previous census,2022,Female,Co. Kilkenny,Number,2378
+Actual change since previous census,2022,Female,Co. Laois,Number,3553
+Actual change since previous census,2022,Female,Co. Leitrim,Number,1589
+Actual change since previous census,2022,Female,Co. Limerick,Number,5664
+Actual change since previous census,2022,Female,Co. Longford,Number,2993
+Actual change since previous census,2022,Female,Co. Louth,Number,5255
+Actual change since previous census,2022,Female,Co. Mayo,Number,3801
+Actual change since previous census,2022,Female,Co. Meath,Number,12195
+Actual change since previous census,2022,Female,Co. Monaghan,Number,1651
+Actual change since previous census,2022,Female,Co. Offaly,Number,2146
+Actual change since previous census,2022,Female,Co. Roscommon,Number,2766
+Actual change since previous census,2022,Female,Co. Sligo,Number,2290
+Actual change since previous census,2022,Female,Co. Tipperary,Number,4311
+Actual change since previous census,2022,Female,Co. Waterford,Number,5739
+Actual change since previous census,2022,Female,Co. Westmeath,Number,3630
+Actual change since previous census,2022,Female,Co. Wexford,Number,6928
+Actual change since previous census,2022,Female,Co. Wicklow,Number,6874
+Percentage change since previous census,2022,Both sexes,Ireland,%,7.6
+Percentage change since previous census,2022,Both sexes,Co. Carlow,%,8.78
+Percentage change since previous census,2022,Both sexes,Co. Cavan,%,6.6
+Percentage change since previous census,2022,Both sexes,Co. Clare,%,7.24
+Percentage change since previous census,2022,Both sexes,Co. Cork,%,7.07
+Percentage change since previous census,2022,Both sexes,Co. Donegal,%,4.48
+Percentage change since previous census,2022,Both sexes,Co. Dublin,%,7.67
+Percentage change since previous census,2022,Both sexes,Co. Galway,%,7.13
+Percentage change since previous census,2022,Both sexes,Co. Kerry,%,5.11
+Percentage change since previous census,2022,Both sexes,Co. Kildare,%,11
+Percentage change since previous census,2022,Both sexes,Co. Kilkenny,%,4.49
+Percentage change since previous census,2022,Both sexes,Co. Laois,%,8.22
+Percentage change since previous census,2022,Both sexes,Co. Leitrim,%,9.5
+Percentage change since previous census,2022,Both sexes,Co. Limerick,%,5.41
+Percentage change since previous census,2022,Both sexes,Co. Longford,%,14.09
+Percentage change since previous census,2022,Both sexes,Co. Louth,%,7.93
+Percentage change since previous census,2022,Both sexes,Co. Mayo,%,5.15
+Percentage change since previous census,2022,Both sexes,Co. Meath,%,12.95
+Percentage change since previous census,2022,Both sexes,Co. Monaghan,%,5.61
+Percentage change since previous census,2022,Both sexes,Co. Offaly,%,6.04
+Percentage change since previous census,2022,Both sexes,Co. Roscommon,%,8.45
+Percentage change since previous census,2022,Both sexes,Co. Sligo,%,6.54
+Percentage change since previous census,2022,Both sexes,Co. Tipperary,%,5.08
+Percentage change since previous census,2022,Both sexes,Co. Waterford,%,9.39
+Percentage change since previous census,2022,Both sexes,Co. Westmeath,%,7.96
+Percentage change since previous census,2022,Both sexes,Co. Wexford,%,9.22
+Percentage change since previous census,2022,Both sexes,Co. Wicklow,%,9.17
+Percentage change since previous census,2022,Male,Ireland,%,7.45
+Percentage change since previous census,2022,Male,Co. Carlow,%,8.41
+Percentage change since previous census,2022,Male,Co. Cavan,%,6.47
+Percentage change since previous census,2022,Male,Co. Clare,%,6.64
+Percentage change since previous census,2022,Male,Co. Cork,%,6.82
+Percentage change since previous census,2022,Male,Co. Donegal,%,4.24
+Percentage change since previous census,2022,Male,Co. Dublin,%,7.69
+Percentage change since previous census,2022,Male,Co. Galway,%,6.78
+Percentage change since previous census,2022,Male,Co. Kerry,%,4.98
+Percentage change since previous census,2022,Male,Co. Kildare,%,10.95
+Percentage change since previous census,2022,Male,Co. Kilkenny,%,4.19
+Percentage change since previous census,2022,Male,Co. Laois,%,7.96
+Percentage change since previous census,2022,Male,Co. Leitrim,%,9.05
+Percentage change since previous census,2022,Male,Co. Limerick,%,5.01
+Percentage change since previous census,2022,Male,Co. Longford,%,13.45
+Percentage change since previous census,2022,Male,Co. Louth,%,7.8
+Percentage change since previous census,2022,Male,Co. Mayo,%,4.49
+Percentage change since previous census,2022,Male,Co. Meath,%,13.49
+Percentage change since previous census,2022,Male,Co. Monaghan,%,5.82
+Percentage change since previous census,2022,Male,Co. Offaly,%,6.59
+Percentage change since previous census,2022,Male,Co. Roscommon,%,8.29
+Percentage change since previous census,2022,Male,Co. Sligo,%,6.16
+Percentage change since previous census,2022,Male,Co. Tipperary,%,4.77
+Percentage change since previous census,2022,Male,Co. Waterford,%,8.97
+Percentage change since previous census,2022,Male,Co. Westmeath,%,7.8
+Percentage change since previous census,2022,Male,Co. Wexford,%,9.33
+Percentage change since previous census,2022,Male,Co. Wicklow,%,8.82
+Percentage change since previous census,2022,Female,Ireland,%,7.73
+Percentage change since previous census,2022,Female,Co. Carlow,%,9.15
+Percentage change since previous census,2022,Female,Co. Cavan,%,6.73
+Percentage change since previous census,2022,Female,Co. Clare,%,7.83
+Percentage change since previous census,2022,Female,Co. Cork,%,7.31
+Percentage change since previous census,2022,Female,Co. Donegal,%,4.71
+Percentage change since previous census,2022,Female,Co. Dublin,%,7.65
+Percentage change since previous census,2022,Female,Co. Galway,%,7.47
+Percentage change since previous census,2022,Female,Co. Kerry,%,5.24
+Percentage change since previous census,2022,Female,Co. Kildare,%,11.05
+Percentage change since previous census,2022,Female,Co. Kilkenny,%,4.78
+Percentage change since previous census,2022,Female,Co. Laois,%,8.48
+Percentage change since previous census,2022,Female,Co. Leitrim,%,9.94
+Percentage change since previous census,2022,Female,Co. Limerick,%,5.81
+Percentage change since previous census,2022,Female,Co. Longford,%,14.75
+Percentage change since previous census,2022,Female,Co. Louth,%,8.05
+Percentage change since previous census,2022,Female,Co. Mayo,%,5.81
+Percentage change since previous census,2022,Female,Co. Meath,%,12.41
+Percentage change since previous census,2022,Female,Co. Monaghan,%,5.41
+Percentage change since previous census,2022,Female,Co. Offaly,%,5.49
+Percentage change since previous census,2022,Female,Co. Roscommon,%,8.6
+Percentage change since previous census,2022,Female,Co. Sligo,%,6.9
+Percentage change since previous census,2022,Female,Co. Tipperary,%,5.4
+Percentage change since previous census,2022,Female,Co. Waterford,%,9.81
+Percentage change since previous census,2022,Female,Co. Westmeath,%,8.12
+Percentage change since previous census,2022,Female,Co. Wexford,%,9.12
+Percentage change since previous census,2022,Female,Co. Wicklow,%,9.51
